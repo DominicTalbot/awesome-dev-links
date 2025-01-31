@@ -3,12 +3,12 @@
 Welcome to my collection of useful websites and resources for software developers! This repository showcases websites I frequently visit, as well as other great resources that can help developers of all skill levels improve their coding skills, learn new technologies, and stay up to date with the latest industry trends.
 
 ## 🚀 Table of Contents
-1. [Learning Platforms](#learning-platforms)
-2. [Coding Challenges & Practice](#coding-challenges--practice)
-3. [Documentation & Reference](#documentation--reference)
-4. [Tools & Extensions](#tools--extensions)
-5. [Tech News & Communities](#tech-news--communities)
-6. [Other Resources](#other-resources)
+1. [Learning Platforms](#-learning-platforms)
+2. [Coding Challenges & Practice](#-coding-challenges--practice)
+3. [Documentation & Reference](#-documentation--reference)
+4. [Tools & Extensions](#-tools--extensions)
+5. [Tech News & Communities](#-tech-news--communities)
+6. [Other Resources](#-other-resources)
 
 ## 📚 Learning Platforms
 These platforms provide tutorials, courses, and learning paths for developers.
